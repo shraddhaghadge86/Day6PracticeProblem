@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelabz.day6logical;
 
 public class CouponNumber {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelabz.day6logical;
 
 import java.util.Scanner;
 
